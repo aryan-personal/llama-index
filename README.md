@@ -55,4 +55,12 @@ as it provides a query interface that accepts any input prompt over your data an
 - **llamaindex** Functions as a smart storage mechanism.
 **Langchain** Designed to bring multiple tools together and chain operations
 
-Programming language used Python.
+Programming language Python-based library.
+
+8. **_Application_breadth_**:-
+- **llamaindex** Focused on search-centric applications.
+**Langchain** Facilitates the deployment of bespoke NLP applications.
+
+9. **_Deployment_**:-
+- **llamaindex** Ideal for proprietary or specialized data.
+**Langchain** Facilitates the deployment of bespoke NLP applications.
