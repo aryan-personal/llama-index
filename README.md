@@ -14,15 +14,15 @@ from that index whenever your are putting a query you will get a response,
 as it provides a query interface that accepts any input prompt over your data and returns a knowledge-augmented response.
 
 ### Can Connect To:-
-1. Unstructured Data:-
+1. **Unstructured Data:-**
 - Connect unstructured sources such as documents,raw text files,PDF's,videos,images,etc.
 (Ppt's,pdf's,youtube,docs)
 
-2. Structured Data:-
+2. **Structured Data:-**
 - Easily integrate Structured data sources such as documents,raw text files,PDF's,videos,images,etc.
 (Excel,Sql)
 
-3. Semi-Structured Data:-
+3. **Semi-Structured Data:-**
 - Connect Semi-Structured data from API's like Slack,Salesforce,Notion,etc.
 (Notion,Salesforce,Slack)
 
